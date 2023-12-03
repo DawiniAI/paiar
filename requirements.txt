@@ -1,0 +1,8 @@
+pandas
+numpy
+pandasai
+dotenv
+langchain
+streamlit
+PIL
+langchain_experimental
