@@ -9,6 +9,7 @@ The first tool to automate the process of analyzing sales data through artificia
 
 ## Demo
 
+[demo.webm](https://github.com/DawiniAI/paiar/assets/32424891/40fe42cc-6c01-4395-b293-bae0bc8426e2)
 
 
 
