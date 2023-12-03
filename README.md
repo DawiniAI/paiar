@@ -2,13 +2,10 @@
 # paiar | From Dawini.ai Team
 
 The first tool to automate the process of analyzing sales data through artificial intelligence
+[![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
+
 
 ![Logo](https://github.com/DawiniAI/paiar/media/logo.png)
-
-
-
-[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
-
 
 
 ## Demo
